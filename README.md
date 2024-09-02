@@ -8,9 +8,19 @@
 
 <h2 align="left">About me</h2>
 
-###
+<div align="right">
+  <img align="right" height="200" src="https://github.com/AlpayC/AlpayC/raw/main/assets/animation.gif" />
+  
+  <p align="left">
+    👯   I am looking for a full stack JavaScript developer job.<br><br>
+    ✌️   Enjoy doing programming and sharing knowledge<br><br>
+    ❤️   I’m currently learning Next.js and TypeScript<br><br>
+    📧   Reach me anytime: samirabidi1123@gmail.com<br>
+  </p>
+</div>
 
-<p align="left">👯   I am looking for a  full stack JavaScript developer job.<br><br>✌️   Enjoy to do programming and sharing knowledge<br><br>❤️   I’m currently learning  Next.js  and TypeScript<br><br>📧   Reach me anytime: samirabidi1123@gmail.com<br>
+
+###
 
 ###
 
@@ -60,6 +70,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  
+
+###
+</div>
+
+
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=samirabidi0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
